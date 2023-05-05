@@ -21,5 +21,7 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapRazorPages();
+// Add more middleware
 
 app.Run();
+
