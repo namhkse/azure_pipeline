@@ -26,3 +26,4 @@ app.MapRazorPages();
 
 app.Run();
 
+// Add feature 1
